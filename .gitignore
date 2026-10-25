@@ -1,0 +1,15 @@
+# 生成物・一時ファイル
+__pycache__/
+*.pyc
+ros2/models/*.sdf
+cooking_demo/
+out/
+report/
+*.rgb
+rp*.png
+rf*.txt
+rbg.png
+
+# 動画の生データ（容量が大きいため）
+docs/raw_demo.mp4
+*.log
