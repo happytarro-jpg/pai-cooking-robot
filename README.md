@@ -6,7 +6,7 @@ ROS 2 Humble / Ignition Gazebo（Fortress 6.16）/ MoveIt 2 で、4 自由度ア
 - デモ動画: [`docs/demo.mp4`](docs/demo.mp4)
 - レポート: [`docs/説明資料_PAI最終課題_happytarro-jpg.pdf`](docs/説明資料_PAI最終課題_happytarro-jpg.pdf)
 
-![demo](docs/demo.mp4)
+▶ [デモ動画を見る（docs/demo.mp4）](docs/demo.mp4)
 
 ## できること
 
